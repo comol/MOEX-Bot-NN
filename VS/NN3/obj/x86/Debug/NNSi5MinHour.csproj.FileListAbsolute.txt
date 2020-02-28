@@ -1,0 +1,4 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSi5MinHour.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSi5MinHour.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 4 (SI 5 мин через час)\VS\NN3\obj\x86\Debug\NNSi5MinHour.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 4 (SI 5 мин через час)\VS\NN3\obj\x86\Debug\NNSi5MinHour.pdb

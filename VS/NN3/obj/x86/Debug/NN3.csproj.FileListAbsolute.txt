@@ -1,0 +1,14 @@
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\NN3.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\NN3.pdb
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\NNLib1.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\TSLab.DataSource.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\TSLab.Script.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\x86\Debug\TSLab.Script.Handlers.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\x86\Debug\NN3.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\x86\Debug\NN3.pdb
+C:\Program Files (x86)\TSLab 1.2\Handlers\NN3.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NN3.pdb
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\x86\Debug\NN3.csprojResolveAssemblyReference.cache
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 1 (классический скрипт, часоивик)\VS\NN3\obj\x86\Debug\NN3.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 1 (классический скрипт, часоивик)\VS\NN3\obj\x86\Debug\NN3.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 1 (классический скрипт, часоивик)\VS\NN3\obj\x86\Debug\NN3.csprojResolveAssemblyReference.cache

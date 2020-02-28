@@ -1,0 +1,4 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNNeuroPit.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNNeuroPit.pdb
+Z:\Биржа\ReadyBots\Нейропитобот\VS\NN3\obj\Debug\NNNeuroPit.dll
+Z:\Биржа\ReadyBots\Нейропитобот\VS\NN3\obj\Debug\NNNeuroPit.pdb

@@ -1,0 +1,5 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNNARX.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNNARX.pdb
+Z:\Биржа\TestOnlyBots\NARX\VS\NN3\obj\Debug\NNNARX.dll
+Z:\Биржа\TestOnlyBots\NARX\VS\NN3\obj\Debug\NNNARX.pdb
+Z:\Биржа\TestOnlyBots\NARX\VS\NN3\obj\Debug\NNNARX.csprojResolveAssemblyReference.cache

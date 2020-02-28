@@ -1,0 +1,2 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSi5Min.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 3 (SI 5 мин)\VS\NN3\obj\x86\Release\NNSi5Min.dll

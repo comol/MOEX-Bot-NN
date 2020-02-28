@@ -1,0 +1,10 @@
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\NNLibSI5MinHourMedian.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\TSLab.DataSource.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\TSLab.Script.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\TSLab.Script.Handlers.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\NNSi5MinHourMedian.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\bin\Debug\NNSi5MinHourMedian.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\obj\Debug\NNSi5MinHourMedian.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 5 (Si 5 мин медиана час)\VS\NN3\obj\Debug\NNSi5MinHourMedian.pdb
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSi5MinHourMedian.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSi5MinHourMedian.pdb

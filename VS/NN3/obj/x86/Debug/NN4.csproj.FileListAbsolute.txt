@@ -1,0 +1,4 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NN4.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NN4.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 2 (SI)\VS\NN3\obj\x86\Debug\NN4.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 2 (SI)\VS\NN3\obj\x86\Debug\NN4.pdb

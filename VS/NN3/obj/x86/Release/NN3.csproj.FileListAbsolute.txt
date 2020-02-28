@@ -1,0 +1,2 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NN3.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 1 (классический скрипт, часоивик)\VS\NN3\obj\x86\Release\NN3.dll

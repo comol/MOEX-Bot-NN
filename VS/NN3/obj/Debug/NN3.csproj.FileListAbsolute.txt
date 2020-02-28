@@ -1,0 +1,26 @@
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\obj\Debug\NN3.csprojResolveAssemblyReference.cache
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\NN3.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\NN3.pdb
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\TSLab.DataSource.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\TSLab.Script.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\TSLab.Utility.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\log4net.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\TSLab.DataSource.xml
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\bin\Debug\TSLab.Script.xml
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\obj\Debug\NN3.dll
+c:\users\o.filippov\documents\visual studio 2013\Projects\NN3\NN3\obj\Debug\NN3.pdb
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\NN3.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\NN3.pdb
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\TSLab.Utility.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\log4net.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\obj\Debug\NN3.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\obj\Debug\NN3.pdb
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\TSLab.DataSource.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\TSLab.Script.dll
+C:\Users\Admin\Dropbox (NN)\VS\NN3\NN3\bin\Debug\BaseNN6.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\Debug\NN3.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\Debug\NN3.pdb
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\Debug\NN3.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\Debug\NN3.pdb
+Z:\Matlab_Functions\VS\NN_3\NN3\bin\Debug\NNLib1.dll
+Z:\Matlab_Functions\VS\NN_3\NN3\obj\Debug\NN3.csprojResolveAssemblyReference.cache

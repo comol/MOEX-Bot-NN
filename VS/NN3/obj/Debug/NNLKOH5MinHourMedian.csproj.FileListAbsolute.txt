@@ -1,0 +1,4 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNLKOH5MinHourMedian.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNLKOH5MinHourMedian.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 7 (LKOH 5 мин медиана час)\VS\NN3\obj\Debug\NNLKOH5MinHourMedian.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 7 (LKOH 5 мин медиана час)\VS\NN3\obj\Debug\NNLKOH5MinHourMedian.pdb

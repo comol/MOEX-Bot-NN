@@ -1,0 +1,4 @@
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSBRF5MinHourMedian.dll
+C:\Program Files (x86)\TSLab 1.2\Handlers\NNSBRF5MinHourMedian.pdb
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 6 (СБЕР 5 мин медиана час)\VS\NN3\obj\Debug\NNSBRF5MinHourMedian.dll
+Z:\Биржа\ReadyBots\Парный трейдинг\Вариант 6 (СБЕР 5 мин медиана час)\VS\NN3\obj\Debug\NNSBRF5MinHourMedian.pdb

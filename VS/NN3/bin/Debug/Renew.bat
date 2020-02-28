@@ -1,0 +1,1 @@
+copy /y "Z:\Matlab_Functions\VS\NN_3\NN3\bin\Debug\NN3.dll" "C:\Program Files (x86)\TSLab 1.2\Handlers"
